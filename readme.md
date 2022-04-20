@@ -7,9 +7,11 @@
 <h4>Course: Big Data Analytics</h4>
 <h4>Course Code: 60490</h4>
 <h4>Project Description</h4>
-<pre><code>This project is done on docker container creating a containerized Mongodb environment. Showing all the commands that are required for any naïve user to understand the basics of Mongodb.
+<pre><code>This project is done on docker container creating a containerized Mongodb environment. 
+Showing all the commands that are required for any naïve user to understand the basics of Mongodb.
 </code></pre>
-<pre><code>command 1 - 10 shows how to initialize the mongodb environment in docker container along with uploading the user data in the database.
+<pre><code>command 1 - 10 shows how to initialize the mongodb environment in docker container 
+along with uploading the user data in the database.
 </code></pre>
 <pre><code>While the main commands section shows the basics of mongodb. A total of 59 commands has been
 used in this assignment containing the topics such as (Aggregation, Replication, Counting,
