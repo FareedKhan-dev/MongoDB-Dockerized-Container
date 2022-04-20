@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- saved from url=(0027)https://pdf2md.morethan.io/ -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="description" content="Converts PDF files to Markdown."><meta name="keywords" content="PDF, Markdown, converter, online"><link rel="shortcut icon" href="https://pdf2md.morethan.io/favicons/favicon.ico"><link rel="icon" href="https://pdf2md.morethan.io/favicons/favicon.ico"><script defer="defer" src="./PDF to Markdown_files/bundle.js.download"></script>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="description" content="Converts PDF files to Markdown."><meta name="keywords" content="PDF, Markdown, converter, online"><link rel="shortcut icon" href="https://pdf2md.morethan.io/favicons/favicon.ico"><link rel="icon" href="https://pdf2md.morethan.io/favicons/favicon.ico">
 <link rel="stylesheet" href="stylessheet.css">
 </head><body><div id="main"><div data-reactroot=""><div class="container"><div><div></div><hr><div><h4>Assignment: Dockerized MongoDB</h4>
 <h4>Name: Fareed Hassan Khan</h4>
